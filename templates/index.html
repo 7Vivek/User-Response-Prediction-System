@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>User Response Prediction System</title>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.2/css/all.min.css'>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<h2>User Response Prediction System using Machine Learning Techniques</h2>
+<div class="container" id="container">
+	<div class="form-container sign-up-container">
+    <form action="{{ url_for('predict')}}"method="post">
+			<h2>Project Teammates</h2>
+            <hr size="1" width="100%" color="#D8D8D8">  
+            <br>
+            <font size = "5" style="background: linear-gradient(to right, #FF4B2B,#FF416C);-webkit-text-fill-color: transparent;-webkit-background-clip:text;"> Vivek Limbad </font>
+            <br>
+            <font size = "5" style="background: linear-gradient(to right, #FF4B2B,#FF416C);-webkit-text-fill-color: transparent;-webkit-background-clip:text;"> Manali Kadam </font>
+            <br>
+            <font size = "5" style="background: linear-gradient(to right, #FF4B2B,#FF416C);-webkit-text-fill-color: transparent;-webkit-background-clip:text;"> Rueben Patil </font>
+            <br>
+            <font size = "5" style="background: linear-gradient(to right, #FF4B2B,#FF416C);-webkit-text-fill-color: transparent;-webkit-background-clip:text;"> Siddhant Ghag </font>
+            <br>
+            <br>
+            <font style="color:#7E7E7E;" size = "3"><i>Pursuing Masters in Data Science & Business Analytics.</i></font>
+            <br>
+			<div class="social-container">
+				<a href="https://github.com/7Vivek" class="social"><i class="fab fa-github" style="font-size:20px"></i></a>
+				<a href="https://www.linkedin.com/in/vivek-limbad-412667215/" class="social"><i class="fab fa-linkedin-in" style="font-size:20px"></i></a>
+			</div>
+		</form>
+	</div>
+	<div class="form-container sign-in-container">
+    <form action="{{ url_for('predict')}}"method="post">
+<font size = "5" style="background: linear-gradient(to right, #FF4B2B,#FF416C);-webkit-text-fill-color: transparent;-webkit-background-clip:text;">Let's Predict</font>     
+        <br>
+        <input type="text" name="Daily Time Spent on Site" placeholder="Daily Time Spent on Site" required="required" />
+        <input type="text" name="Age" placeholder="Age" required="required" />
+		<input type="text" name="Area Income" placeholder="Area Income" required="required" />
+		<input type="text" name="Daily Internet Usage" placeholder="Daily Internet Usage" required="required" />
+		<input type="text" name="Male" placeholder="Gender" required="required" />
+        <br>
+        {{ prediction_text }}
+        <br>
+        <br>
+        <button>PREDICT</button>
+		</form>
+	</div>
+	<div class="overlay-container">
+		<div class="overlay">
+			<div class="overlay-panel overlay-left">
+				<h2 style="color:#fff;">ML PROJECT</h2>
+                <b><i>Problem Statement</i></b>
+				<font size = "2" style="text-align:left;">It is necessary to predict profitable users who can click target ads in the advertising trade. The task selects the potential users that can connect the ads by analyzing users' clicking/web browsing data and displaying the foremost relevant ads to them. This project presents an associate empirical study of the exploitation of different web of things techniques to predict whether or not an advertisement is going to be clicked or not. We tend to perform click prediction on a binary scale one for click and zero for no click. We tend to use clicks information from advertizing.csv provided as a region of Kaggle competition as our information set. We tend to perform feature choice to get rid of options that don't facilitate improve classifier accuracy. We tend to examine information manually and conjointly use feature choice capability.</font>
+                <br>
+				<button class="ghost" id="signIn">Let's Predict</button>
+			</div>
+			<div class="overlay-panel overlay-right">
+                <font size = "5"><b>Input Description</b></font>
+                <hr size="1" width="100%" color="white">  
+                <font size = "2"><b>Daily Time Spent on Site : </b>Enter your Avg. time spent on the website in minutes. e.g. 30 (30min)</font>
+                <br>
+                <font size = "2"><b>Age : </b>Enter your age. e.g. 21 </font>
+                <br>
+                <font size = "2"><b>Area Income : </b>Enter your monthly income. e.g. 20000 </font>
+                <br>
+                <font size = "2"><b>Daily Internet Usage : </b>Enter your daily internet usage. e.g. 300 (300mb) </font>
+                <br>
+                <font size = "2"><b>Gender : </b>Enter 1 for Male and 0 for Female. </font>
+                <br><br>
+				<font size = "2"><b>Prediction Result : </b></font>
+                <font size = "2"><b>0 : </b>There is a lesser chance of users will click on an ad.</font>
+                <font size = "2"><b>1 : </b>There is a higher chance of users will click on an ad. </font>
+                <br>
+				<button class="ghost" id="signUp">Project Objective</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<footer>
+	<p class="ml12" target="_blank" href="https://github.com/7Vivek">
+		Created by
+		<a target="_blank" href="https://github.com/7Vivek" style="color:#FF8BA0;">Vivek</a>
+		- Checkout the complete project
+		<a target="_blank" href="https://github.com/7Vivek" style="color:#FF8BA0;">here</a>.
+	</p>
+</footer>
+<!-- partial -->
+  <script>
+      const signUpButton = document.getElementById('signUp');
+const signInButton = document.getElementById('signIn');
+const container = document.getElementById('container');
+
+signUpButton.addEventListener('click', () => {
+	container.classList.add("right-panel-active");
+});
+
+signInButton.addEventListener('click', () => {
+	container.classList.remove("right-panel-active");
+});
+      
+      // Wrap every letter in a span
+var textWrapper = document.querySelector('.ml12');
+textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+
+anime.timeline({loop: true})
+  .add({
+    targets: '.ml12 .letter',
+    translateX: [40,0],
+    translateZ: 0,
+    opacity: [0,1],
+    easing: "easeOutExpo",
+    duration: 1200,
+    delay: (el, i) => 500 + 30 * i
+  }).add({
+    targets: '.ml12 .letter',
+    translateX: [0,-30],
+    opacity: [1,0],
+    easing: "easeInExpo",
+    duration: 1100,
+    delay: (el, i) => 100 + 30 * i
+  });
+   
+    </script>
+
+</body>
+</html>
