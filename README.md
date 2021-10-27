@@ -19,7 +19,7 @@
 
 - **CTR**: It is the metric used to measure the percentage of impressions that resulted in a click.
 
-![download](https://user-images.githubusercontent.com/77670138/138988506-56d6da1a-0fa3-4a4b-9b51-1738c27d9613.jpg)
+<img src = "https://user-images.githubusercontent.com/77670138/138988506-56d6da1a-0fa3-4a4b-9b51-1738c27d9613.jpg" style="width:400px;height:80px;"></img>   
 
 
 - ```Search ads```: Advertisements that get displayed when a user searches for a particular keyword. 
