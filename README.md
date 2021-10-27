@@ -25,8 +25,6 @@ https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-
 
 - **CTR**: It is the metric used to measure the percentage of impressions that resulted in a click.
 
-<img src = "https://user-images.githubusercontent.com/77670138/138988506-56d6da1a-0fa3-4a4b-9b51-1738c27d9613.jpg" style="width:425px;height:80px;"></img>   
-
 - Paid search advertising is a popular form of **Pay per click (PPC)** advertising in which brands or advertisers pay (bid amount) to have their ads displayed when users search for specific keywords.
 
 - How to calculate ad click prediction by performing machine learning modelling on a dataset. We have build a Logistic Regression model that would help us predict whether a user will click on an ad or not based on the features of that user. And hence calculate the probability of a user clicking on an ad.
@@ -65,13 +63,12 @@ https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-
 | `Linear Support Vector Classification`  | 95.33% |
 | `k Nearest Neighbors Classifier`        | 95% |
 
-<h2> Contributors </h2>
-Vivek Limbad, 
-Manali Kadam, 
-Rueben Patil, 
-Siddhanth Ghag
+<h2> 🧩 Contributors </h2>
 
-
+- <h4><a href="https://github.com/7Vivek">Vivek Limbad</a></h4>
+- <h4><a href="https://www.linkedin.com/in/manali-kadam-aa855b215">Manali Kadam</a></h4>
+- <h4><a href="https://www.linkedin.com/in/rueben-patil-3b14b91b3">Rueben Patil</a></h4>
+- <h4><a href="https://www.linkedin.com/in/siddhanth-ghag-68b7511a9">Siddhanth Ghag</a></h4>
 
 
 
