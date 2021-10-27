@@ -1,16 +1,15 @@
 <div align = "center">
   
-# User-Response-Prediction-System
+## User-Response-Prediction-System
 <h3> <i> iNeuron Internship Project</i></h3>
-<h3>Project Teammates : Vivek Limbad, Manali Kadam, Rueben Patil, Siddhanth Ghag </h3>
+<h4>Project Teammates : Vivek Limbad, Manali Kadam, Rueben Patil, Siddhanth Ghag </h4>
 </div>
 <br>
+<h3 align = "center"> 🎬 Project Demo </h3>
 
-<h2 align = "center"> 🎬 Project Demo </h2>
-
-<h3>📑 <a href="https://github.com/7Vivek/User-Response-Prediction-System/blob/main/User%20Response%20Prediction%20System%20using%20Machine%20Learning%20Techniques.pdf">Documentation</a></h3>
-<h3>🎞 <a href="https://github.com/7Vivek/User-Response-Prediction-System/blob/main/Wireframe%20Documentation.pdf">Wireframe</a></h3>
-<h3> 🖥 Application is hosted on Heroku. You can see the <a href="https://user-response-prediction.herokuapp.com/">Demo</a></h3>
+<h4>📑 <a href="https://github.com/7Vivek/User-Response-Prediction-System/blob/main/User%20Response%20Prediction%20System%20using%20Machine%20Learning%20Techniques.pdf">Documentation</a></h4>
+<h4>🎞 <a href="https://github.com/7Vivek/User-Response-Prediction-System/blob/main/Wireframe%20Documentation.pdf">Wireframe</a></h4>
+<h4> 🖥 Application is hosted on Heroku. You can see the <a href="https://user-response-prediction.herokuapp.com/">Demo</a></h4>
 
 https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-aba9-201b8c20b436.mp4
 
