@@ -9,7 +9,8 @@
 
 <h4>📑 <a href="https://github.com/7Vivek/User-Response-Prediction-System/blob/main/User%20Response%20Prediction%20System%20using%20Machine%20Learning%20Techniques.pdf">Documentation</a></h4>
 <h4>🎞 <a href="https://github.com/7Vivek/User-Response-Prediction-System/blob/main/Wireframe%20Documentation.pdf">Wireframe</a></h4>
-<h4>🖥 Application is hosted on Heroku. You can see the <a href="https://user-response-prediction.herokuapp.com/">Demo</a></h4>
+<h4>📂 <a href="https://github.com/7Vivek/User-Response-Prediction-System/tree/main/Dataset">Dataset</a></h4>
+<h4> ✔ Application is hosted on Heroku. You can see the <a href="https://user-response-prediction.herokuapp.com/">Demo</a></h4>
 
 https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-aba9-201b8c20b436.mp4
 
@@ -44,13 +45,15 @@ https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-
 
 - In this project, we will work with the advertising data of a marketing agency to develop a machine learning algorithm that predicts if a particular user will click on an advertisement.
 
+<h3> 📂 Dataset </h3>
+
 - The data consists of **10** variables:
 
 **'Daily Time Spent on Site', 'Age', 'Area Income', 'Daily Internet Usage', 'Ad Topic Line', 'City', 'Male', 'Country', Timestamp' and 'Clicked on Ad'.**
 
-- The primary variable we are interested in is ```' Clicked on Ad'```.
+- The primary variable we are interested in is ```'Clicked on Ad'```.
 
-This variable can have two possible outcomes: 0 and 1, where 0 refers to a user who didn't click the advertisement, while one refers to the scenario where a user clicks the ad.
+<i>This variable can have two possible outcomes: 0 and 1, where 0 refers to a user who didn't click the advertisement, while one refers to the scenario where a user clicks the ad.</i>
 
 - We will see if we can use the other **9** variables to accurately predict the value **'Clicked on Ad'** variable. 
 
