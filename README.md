@@ -3,8 +3,17 @@
 ## User-Response-Prediction-System
 <h3> <i> iNeuron Internship Project</i></h3>
 <h4>Project Teammates : Vivek Limbad, Manali Kadam, Rueben Patil, Siddhanth Ghag </h4>
+  
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-ff2d55.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![Lines of code](https://img.shields.io/tokei/lines/github/7Vivek/User-Response-Prediction-System?color=5856d6)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/7Vivek/User-Response-Prediction-System?color=ff9500)
+![GitHub repo size](https://img.shields.io/github/repo-size/7Vivek/User-Response-Prediction-System?color=5ac8fa)
+![GitHub last commit](https://img.shields.io/github/last-commit/7Vivek/User-Response-Prediction-System?color=4cd964)
+![GitHub top language](https://img.shields.io/github/languages/top/7Vivek/User-Response-Prediction-System?color=ffcc00)
+![GitHub language count](https://img.shields.io/github/languages/count/7Vivek/User-Response-Prediction-System?color=d3fb34)
+  
 </div>
-<br>
+
 <h2 align = "center"> 🎬 Project Demo </h2>
 
 <h4>📑 <a href="https://github.com/7Vivek/User-Response-Prediction-System/blob/main/User%20Response%20Prediction%20System%20using%20Machine%20Learning%20Techniques.pdf">Documentation</a></h4>
