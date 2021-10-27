@@ -2,10 +2,21 @@
   
 # User-Response-Prediction-System
   
+<h3> <i> iNeuron Internship Project</i></h3>
+  
 <h3>Project Teammates : Vivek Limbad, Manali Kadam, Rueben Patil, Siddhanth Ghag </h3>
 
-<h3> <i> iNeuron Internship Project</i></h3>
 </div>
+
+
+
+
+
+<img align = "center" src="https://user-images.githubusercontent.com/77670138/139002109-94088cf7-a8b8-4fa4-a006-8b15c8447529.gif" style="width:1000px;height:550px;"></img>   
+
+
+
+
 
 ## User-Response-Prediction: What, why, and how ?
 
