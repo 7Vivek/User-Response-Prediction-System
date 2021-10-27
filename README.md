@@ -77,6 +77,3 @@ This project's goals are to deeply explore data to do with advertising, perform 
 - ```Timestamp```: Time at which consumer clicked on Ad or closed window
 
 - ```Clicked on Ad```: 0 or 1 indicated clicking on Ad
-
-
-## Load Libraries
