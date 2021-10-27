@@ -1,8 +1,9 @@
 # User-Response-Prediction-System
-iNeuron Internship Project
+
+### iNeuron Internship Project
 
 
-## Ad Click Prediction: What, why, and how?
+## User-Response-Prediction: What, why, and how?
 
 - The online advertisement industry has become a multi-billion industry, and predicting ad **CTR** (click-through rate) is now central. Nowadays, different types of advertisers and search engines rely on modelling to predict ad CTR accurately.
 
@@ -12,7 +13,8 @@ iNeuron Internship Project
 
 - **CTR**: It is the metric used to measure the percentage of impressions that resulted in a click.
 
-![1_5sGHKxGfu78MLdA8a5DXGw.jpeg](attachment:1_5sGHKxGfu78MLdA8a5DXGw.jpeg)
+![download](https://user-images.githubusercontent.com/77670138/138988506-56d6da1a-0fa3-4a4b-9b51-1738c27d9613.jpg)
+
 
 - ```Search ads```: Advertisements that get displayed when a user searches for a particular keyword. 
 
