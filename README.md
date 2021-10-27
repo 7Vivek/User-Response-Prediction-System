@@ -1,16 +1,16 @@
 <div align = "center">
   
 # User-Response-Prediction-System
-  
 <h3> <i> iNeuron Internship Project</i></h3>
-  
 <h3>Project Teammates : Vivek Limbad, Manali Kadam, Rueben Patil, Siddhanth Ghag </h3>
-  
 </div>
+<br>
 
-## 🎬 Project Demo
+<h2 align = "center"> 🎬 Project Demo </h2>
 
-<h4 align = "center">Application is hosted on Heroku. You can see the <a href="https://user-response-prediction.herokuapp.com/">Demo</a></h4>
+<h3>📑 <a href="https://github.com/7Vivek/User-Response-Prediction-System/blob/main/User%20Response%20Prediction%20System%20using%20Machine%20Learning%20Techniques.pdf">Documentation</a></h3>
+<h3>🎞 <a href="https://github.com/7Vivek/User-Response-Prediction-System/blob/main/Wireframe%20Documentation.pdf">Wireframe</a></h3>
+<h3> 🖥 Application is hosted on Heroku. You can see the <a href="https://user-response-prediction.herokuapp.com/">Demo</a></h3>
 
 https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-aba9-201b8c20b436.mp4
 
@@ -56,29 +56,3 @@ This variable can have two possible outcomes: 0 and 1, where 0 refers to a user 
 - We will see if we can use the other **9** variables to accurately predict the value **'Clicked on Ad'** variable. 
 
 - We will also perform some exploratory data analysis to see how **'Daily Time Spent on Site'** in combination with **'Ad Topic Line'** affects the user's decision to click on the ad.
-
-## 📂 Dataset
-
-This project's goals are to deeply explore data to do with advertising, perform quantitive analysis, and achieve predictions from the data using machine learning techniques.
-
-- This data set contains the following features:
-
-- ```Daily Time Spent on Site```: consumer time on-site in minutes
-
-- ```Age```: customer age in years
-
-- ```Area Income```: Avg. Income of geographical area of consumer
-
-- ```Daily Internet Usage```: Avg. minutes a day consumer is on the internet
-
-- ```Ad Topic Line```: Headline of the advertisement
-
-- ```City```: City of consumer
-
-- ```Male```: Whether or not the consumer was male
-
-- ```Country```: Country of consumer
-
-- ```Timestamp```: Time at which consumer clicked on Ad or closed window
-
-- ```Clicked on Ad```: 0 or 1 indicated clicking on Ad
