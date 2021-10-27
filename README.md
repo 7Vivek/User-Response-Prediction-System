@@ -6,16 +6,13 @@
   
 <h3>Project Teammates : Vivek Limbad, Manali Kadam, Rueben Patil, Siddhanth Ghag </h3>
   
-  <img align = "center" src="https://user-images.githubusercontent.com/77670138/139002569-1c223191-e1b5-4dd9-a6f7-2f1b39be411d.gif" style="width:690px;height:388px;"></img>   
-
-
-
-https://user-images.githubusercontent.com/77670138/139002776-c3471559-cef8-4843-bd2a-0316819d736f.mp4
-
-
 </div>
 
+## 🎬 Project Demo
 
+<h4 align = "center">Application is hosted on Heroku. You can see the <a href="https://user-response-prediction.herokuapp.com/">Demo</a></h4>
+
+https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-aba9-201b8c20b436.mp4
 
 
 ## User-Response-Prediction: What, why, and how ?
@@ -60,7 +57,7 @@ This variable can have two possible outcomes: 0 and 1, where 0 refers to a user 
 
 - We will also perform some exploratory data analysis to see how **'Daily Time Spent on Site'** in combination with **'Ad Topic Line'** affects the user's decision to click on the ad.
 
-## 📖 Introduction
+## 📂 Dataset
 
 This project's goals are to deeply explore data to do with advertising, perform quantitive analysis, and achieve predictions from the data using machine learning techniques.
 
