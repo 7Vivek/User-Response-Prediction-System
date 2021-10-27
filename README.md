@@ -25,6 +25,8 @@
 
 https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-aba9-201b8c20b436.mp4
 
+<div align = "center">
+  
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -34,6 +36,7 @@ https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+  </div>
 
 <h2>🖱 User-Response-Prediction: What, why, and how ?</h2>
 
