@@ -5,15 +5,15 @@
 <h3> <i> iNeuron Internship Project</i></h3>
   
 <h3>Project Teammates : Vivek Limbad, Manali Kadam, Rueben Patil, Siddhanth Ghag </h3>
+  
+  <img align = "center" src="https://user-images.githubusercontent.com/77670138/139002569-1c223191-e1b5-4dd9-a6f7-2f1b39be411d.gif" style="width:690px;height:388px;"></img>   
+
+
+
+https://user-images.githubusercontent.com/77670138/139002776-c3471559-cef8-4843-bd2a-0316819d736f.mp4
+
 
 </div>
-
-
-
-
-
-<img align = "center" src="https://user-images.githubusercontent.com/77670138/139002109-94088cf7-a8b8-4fa4-a006-8b15c8447529.gif" style="width:1000px;height:550px;"></img>   
-
 
 
 
