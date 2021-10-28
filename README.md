@@ -17,8 +17,8 @@
 
 <h2 align = "center"> 🎬 Project Demo </h2>
 
-<h4>📑 <a href="https://github.com/7Vivek/User-Response-Prediction-System/blob/main/User%20Response%20Prediction%20System%20using%20Machine%20Learning%20Techniques.pdf">Documentation</a></h4>
-<h4>🎞 <a href="https://github.com/7Vivek/User-Response-Prediction-System/blob/main/Wireframe%20Documentation.pdf">Wireframe</a></h4>
+<h4>📑 <a href="https://github.com/7Vivek/User-Response-Prediction-System/blob/main/Documentation/User%20Response%20Prediction%20System%20using%20Machine%20Learning%20Techniques.pdf">Documentation</a></h4>
+<h4>🎞 <a href="https://github.com/7Vivek/User-Response-Prediction-System/blob/main/Documentation/Wireframe%20Documentation.pdf">Wireframe</a></h4>
 <h4>📂 <a href="https://github.com/7Vivek/User-Response-Prediction-System/tree/main/Dataset">Dataset</a></h4>
 <h4> ✔ Application is hosted on Heroku. You can see the <a href="https://user-response-prediction.herokuapp.com/">Demo</a></h4>
 
