@@ -13,7 +13,6 @@
 ![Relative date](https://img.shields.io/date/1635338107?color=1c80f6)
 ![GitHub top language](https://img.shields.io/github/languages/top/7Vivek/User-Response-Prediction-System?color=ffff66)
 ![GitHub language count](https://img.shields.io/github/languages/count/7Vivek/User-Response-Prediction-System?color=04e2b5)
-
 </div>
 
 <h2 align = "center"> 🎬 Project Demo </h2>
@@ -36,7 +35,7 @@ https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-  </div>
+ </div>
 
 <h2>🖱 User-Response-Prediction: What, why, and how ?</h2>
 
@@ -88,10 +87,14 @@ https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-
 
 <h2> 🧩 Contributors </h2>
 
-- <h4><a href="https://github.com/7Vivek">Vivek Limbad</a></h4>
-- <h4><a href="https://www.linkedin.com/in/manali-kadam-aa855b215">Manali Kadam</a></h4>
-- <h4><a href="https://www.linkedin.com/in/rueben-patil-3b14b91b3">Rueben Patil</a></h4>
-- <h4><a href="https://www.linkedin.com/in/siddhanth-ghag-68b7511a9">Siddhanth Ghag</a></h4>
+[![LinkedIn](https://img.shields.io/badge/ManaliKadam-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manali-kadam-aa855b215)
+<br>
+[![LinkedIn](https://img.shields.io/badge/RuebenPatil-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rueben-patil-3b14b91b3)
+<br>
+[![LinkedIn](https://img.shields.io/badge/SiddhanthGhag-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhanth-ghag-68b7511a9)
+<br>
+[![LinkedIn](https://img.shields.io/badge/VivekLimbad-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-limbad-412667215/)
+[![GitHub](https://img.shields.io/badge/VivekLimbad-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7Vivek)
 
 
 
