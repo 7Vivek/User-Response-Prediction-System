@@ -85,6 +85,22 @@ https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-
 | `Linear Support Vector Classification`  | 95.33% |
 | `k Nearest Neighbors Classifier`        | 95% |
 
+<h2> ✔ How to Install and Use</h2>
+
+- Install Python. Download my repo and change to directory of repo.
+- To install the required packages and libraries, run this command in the project directory after cloning the repository:
+
+**On command prompt, run**
+```
+pip install -r requirements.txt
+```
+**Running the app**
+
+Go to this app's directory and run
+```
+python app.py
+```
+
 <h2> 🧩 Contributors </h2>
 
 [![LinkedIn](https://img.shields.io/badge/ManaliKadam-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manali-kadam-aa855b215)
